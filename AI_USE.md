@@ -18,12 +18,12 @@ AI tools were used for exploration and drafting only. Every AI-assisted item was
 | Name | Student No. | GitHub username |
 |------|-------------|-----------------|
 |Rorisang Mokhubu|202322685 |Rorisang440 |
-|Lebohang Soai | |MissEpsilon |
+|Lebohang Soai |202322577 |MissEpsilon |
 |Thabelo Mapepesa |202321273 |thabelomapepesa-spec |
 |Realeboha Mphatle|201902287 |Reah.mphatle |
 |Letlao Libete |202321251 |libetehercules-netizen |
 |Kopanelo Ntsatsi |201100530 |Ntstatsik |
-|Tsenolo Mokati |202405314 | |
+|Tsenolo Mokati |202405314 |Pauseclose |
 
 ---
 
