@@ -2,8 +2,8 @@
 
 **Project:** LIMO, A Sesotho-Language Processor Derived from RISC-V
 **Course:** CS3520 Computer Organisation and Architecture I (AY 2026/2027, Semester A)
-**Repository:** limo-<Data-Academia>
-**Team:** <Data-Academia>
+**Repository:** limo-Data-Academia
+**Team:** Data-Academia
 
 ---
 
@@ -17,13 +17,13 @@ AI tools were used for exploration and drafting only. Every AI-assisted item was
 
 | Name | Student No. | GitHub username |
 |------|-------------|-----------------|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+|Rorisang Mokhubu|202322685 |Rorisang440 |
+|Lebohang Soai |202322577 |MissEpsilon |
+|Thabelo Mapepesa |202321273 |thabelomapepesa-spec |
+|Realeboha Mphatle|201902287 |Reah.mphatle |
+|Letlao Libete |202321251 |libetehercules-netizen |
+|Kopanelo Ntsatsi |201100530 |Ntstatsik |
+|Tsenolo Mokati |202405314 |Pauseclose |
 
 ---
 
